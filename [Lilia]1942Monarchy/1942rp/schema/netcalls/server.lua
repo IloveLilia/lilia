@@ -1,0 +1,1 @@
+util.AddNetworkString("advert_client")
