@@ -1,0 +1,9 @@
+﻿ITEM.name = "Avocado"
+ITEM.uniqueID = "Avocado"
+ITEM.desc = "A food"
+ITEM.model = "models/zerochain/props_kitchen/food/zmc_avocado.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.hunger = 2
+ITEM.thrist = 0
+ITEM.alcohol = 0

@@ -1,0 +1,9 @@
+﻿ITEM.name = "Apple"
+ITEM.uniqueID = "Apple"
+ITEM.desc = "A food"
+ITEM.model = "models/zerochain/props_kitchen/food/zmc_apple.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.hunger = 2
+ITEM.thrist = 1
+ITEM.alcohol = 0
