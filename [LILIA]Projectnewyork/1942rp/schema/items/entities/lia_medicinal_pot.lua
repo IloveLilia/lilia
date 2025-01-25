@@ -1,0 +1,5 @@
+﻿ITEM.name = "Fruit Pot"
+ITEM.desc = "An Fruit Pot"
+ITEM.model = "models/props_junk/terracotta01.mdl"
+ITEM.category = "Entities"
+ITEM.entityid = "lia_medicinal_pot"
