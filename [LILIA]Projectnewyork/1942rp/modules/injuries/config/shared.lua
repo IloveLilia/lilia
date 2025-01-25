@@ -1,0 +1,9 @@
+﻿lia.config.BreakableLegsEnabled = true
+lia.config.ChanceToBreakLegByShooting = 100
+lia.config.ChanceToBreakLegByFalling = 100
+lia.config.DamageThresholdOnFallBreak = 0
+lia.config.BrokenLegSlowMultiplier = 0.1
+lia.config.LegHitgroups = {HITGROUP_LEFTLEG, HITGROUP_RIGHTLEG}
+lia.config.BleedingAmount = 5
+lia.config.BleedingTickTimer = math.random(15, 25)
+lia.config.BaseBleedingChance = 100
