@@ -1,0 +1,5 @@
+﻿MODULE.name = "Serial Numbers"
+MODULE.author = "76561198312513285"
+MODULE.discord = "@liliaplayer"
+MODULE.version = "1.0"
+MODULE.desc = "Weapon Serial numbers and a PD computer for searching."

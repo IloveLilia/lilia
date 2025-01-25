@@ -1,0 +1,18 @@
+﻿local MODULE = MODULE
+netstream.Hook("InitializePlayerModelUI", function(modelTable) MODULE:OpenPlayerModelUI(modelTable) end)
+netstream.Hook("OpenRankSelectionUI", function(target) MODULE:OpenRankSelectionUI(target) end)
+net.Receive("RequestTransfer", function()
+    lia.util.notifQuery("An officer is requesting to transfer you to their faction.", "Accept", "Deny", true, NOT_CORRECT, function(code)
+        net.Start("ApproveTransfer")
+        net.WriteBool(code == 1)
+        net.SendToServer()
+    end)
+end)
+
+net.Receive("RequestEnlist", function()
+    lia.util.notifQuery("An officer is requesting to transfer you to their faction.", "Accept", "Deny", true, NOT_CORRECT, function(code)
+        net.Start("ApproveEnlist")
+        net.WriteBool(code == 1)
+        net.SendToServer()
+    end)
+end)
