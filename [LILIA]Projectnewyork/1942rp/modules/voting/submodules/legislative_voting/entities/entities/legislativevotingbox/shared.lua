@@ -1,0 +1,7 @@
+﻿ENT.Type = "anim"
+ENT.Base = "base_gmodentity"
+ENT.PrintName = "Legislative Voting Box"
+ENT.Author = "Leonheart"
+ENT.Contact = ""
+ENT.Purpose = "To pass votes"
+ENT.Instructions = ""

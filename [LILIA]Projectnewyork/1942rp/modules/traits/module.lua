@@ -1,0 +1,19 @@
+﻿MODULE.Traits = {}
+MODULE.name = "Traits"
+MODULE.author = "76561198312513285"
+MODULE.discord = "@liliaplayer"
+MODULE.version = "1.0"
+MODULE.desc = "Just Traits lmao"
+MODULE.identifier = "TraitsCore"
+lia.config.TraitsTable = {
+    ["Doctor of Medicine"] = "Quicker application of bandages, medicine, able to give blood to others, ability to give morphine to others.",
+    ["Craftsman"] = "Quicker crafting of consumer items, starts with basic tools for crafting.",
+    ["Burglar"] = "Starts with a one-time lockpick, quicker lockpicking, can crack safes.",
+    ["Hardy"] = "Slight increase to HP.",
+    ["Spokesperson"] = "Free copy of Mein Kampf, access to /scream, higher word count.",
+    ["The Cook"] = "Quicker crafting of all drugs, starts with weed seeds.",
+    ["The Banker"] = "Carries more money in their wallet.",
+    ["The Businessman"] = "Starts with a briefcase, three-piece suit, extra starting money.",
+    ["The Sportsman"] = "Able to run faster and further.",
+    ["German Ancestry"] = "Doesn't do anything, but you can flex it.",
+}
