@@ -1,0 +1,5 @@
+﻿SCHEMA.name = "Project New York"
+SCHEMA.author = "STEAM_0:1:176123778"
+SCHEMA.Version = "Project New York"
+SCHEMA.Logo = "winter/watermark.png"
+SCHEMA.charcreate = "winter/pny_logo_intro.png"
