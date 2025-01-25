@@ -1,0 +1,9 @@
+﻿ITEM.name = "Dead man's hand"
+ITEM.desc = "An alchoholic Cocktail"
+ITEM.model = "models/dead man's hand/dead man's hand.mdl"
+ITEM.uniqueID = "deadmanshand"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.abv = 30
+ITEM.desc = "Alchoholic Cocktail"
+ITEM.sound = "eating_and_drinking/drinking.wav"

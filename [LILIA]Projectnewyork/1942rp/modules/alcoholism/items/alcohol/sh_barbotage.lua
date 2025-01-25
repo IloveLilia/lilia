@@ -1,0 +1,9 @@
+﻿ITEM.name = "Barbotage"
+ITEM.desc = "An alchoholic Cocktail"
+ITEM.model = "models/barbotage/barbotage.mdl"
+ITEM.uniqueID = "barbotage"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.abv = 20
+ITEM.desc = "Alchoholic Cocktail"
+ITEM.sound = "eating_and_drinking/drinking.wav"

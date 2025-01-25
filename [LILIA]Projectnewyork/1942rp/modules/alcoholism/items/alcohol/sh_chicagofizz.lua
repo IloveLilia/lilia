@@ -1,0 +1,9 @@
+﻿ITEM.name = "Chicago Fizz"
+ITEM.desc = "An alchoholic Cocktail"
+ITEM.model = "models/chicago fizz/chicago fizz.mdl"
+ITEM.uniqueID = "chicagofizz"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.abv = 30
+ITEM.desc = "Alchoholic Cocktail"
+ITEM.sound = "eating_and_drinking/drinking.wav"

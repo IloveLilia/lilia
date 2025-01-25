@@ -1,0 +1,9 @@
+﻿ITEM.name = "Esquire"
+ITEM.desc = "An alchoholic Cocktail"
+ITEM.model = "models/esquire/esquire.mdl"
+ITEM.uniqueID = "esquire"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.abv = 40
+ITEM.desc = "Alchoholic Cocktail"
+ITEM.sound = "eating_and_drinking/drinking.wav"

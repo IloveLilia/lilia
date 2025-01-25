@@ -1,0 +1,9 @@
+﻿ITEM.name = "Brandy"
+ITEM.desc = "An alchoholic Cocktail"
+ITEM.model = "models/brandy/brandy.mdl"
+ITEM.uniqueID = "brandy"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.abv = 30
+ITEM.desc = "Alchoholic Cocktail"
+ITEM.sound = "eating_and_drinking/drinking.wav"

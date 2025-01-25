@@ -1,0 +1,9 @@
+﻿ITEM.name = "Green Swizzle"
+ITEM.desc = "An alchoholic Cocktail"
+ITEM.model = "models/green swizzle/green swizzle.mdl"
+ITEM.uniqueID = "greenswizzle"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.abv = 25
+ITEM.desc = "Alchoholic Cocktail"
+ITEM.sound = "eating_and_drinking/drinking.wav"

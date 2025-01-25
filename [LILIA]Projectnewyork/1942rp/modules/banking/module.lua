@@ -1,0 +1,6 @@
+﻿MODULE.name = "Banking"
+MODULE.author = "76561198312513285"
+MODULE.discord = "@liliaplayer"
+MODULE.version = "1.0"
+MODULE.identifier = "Banking"
+MODULE.desc = "Adds Banking"

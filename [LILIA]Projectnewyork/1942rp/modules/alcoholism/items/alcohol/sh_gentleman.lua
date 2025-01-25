@@ -1,0 +1,9 @@
+﻿ITEM.name = "Gentleman"
+ITEM.desc = "An alchoholic Cocktail"
+ITEM.model = "models/gentleman/gentleman.mdl"
+ITEM.uniqueID = "gentleman"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.abv = 20
+ITEM.desc = "Alchoholic Cocktail"
+ITEM.sound = "eating_and_drinking/drinking.wav"

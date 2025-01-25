@@ -1,0 +1,9 @@
+﻿ITEM.name = "Caipirinha"
+ITEM.desc = "An alchoholic Cocktail"
+ITEM.model = "models/caipirinha/caipirinha.mdl"
+ITEM.uniqueID = "caipirinha"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.abv = 50
+ITEM.desc = "Alchoholic Cocktail"
+ITEM.sound = "eating_and_drinking/drinking.wav"

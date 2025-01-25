@@ -1,0 +1,9 @@
+﻿ITEM.name = "Margarita"
+ITEM.desc = "An alchoholic Cocktail"
+ITEM.model = "models/margarita/margarita.mdl"
+ITEM.uniqueID = "margarita"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.abv = 30
+ITEM.desc = "Alchoholic Cocktail"
+ITEM.sound = "eating_and_drinking/drinking.wav"

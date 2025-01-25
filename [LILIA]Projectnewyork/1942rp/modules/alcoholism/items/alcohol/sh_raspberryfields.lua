@@ -1,0 +1,9 @@
+﻿ITEM.name = "Raspberry Fields"
+ITEM.desc = "An alchoholic Cocktail"
+ITEM.model = "models/raspberry fields/raspberry fields.mdl"
+ITEM.uniqueID = "raspberryfields"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.abv = 20
+ITEM.desc = "Alchoholic Cocktail"
+ITEM.sound = "eating_and_drinking/drinking.wav"
